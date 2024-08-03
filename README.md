@@ -1,9 +1,9 @@
-Name :- K.Bhargava Sai
-Company :- CODTECH IT SOLUTIONS
-ID :- CT08DS5888
-Domain :- Machine learning
-Duration :-  AUGUST 1st, 2024 to SEPTEMBER 1st, 2024
-Mentor :- Muzammil Ahmed
+* Name :- K.Bhargava Sai
+* Company :- CODTECH IT SOLUTIONS
+* ID :- CT08DS5888
+* Domain :- Machine learning
+* Duration :-  AUGUST 1st, 2024 to SEPTEMBER 1st, 2024
+* Mentor :- Muzammil Ahmed
 
 # Linear-Regression-Model-for-House-Price-Prediction
 
